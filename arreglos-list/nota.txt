@@ -1,0 +1,32 @@
+el dia de hoy he aprendido a crear botones, agregarle el valor, el typo de input en este caso utilize el button.
+tambien aprendi de la tecnologia de app.js la cual estoy usando las mas moderna que es:
+ <script type="module" src="app.js"></script>
+ tambien:
+  <input type="button" value="agregar" class="botones" id="btnagregar">
+        <input type="button" value="borrar" class="botones" id="btnborrar">
+        <input type="button" value="modificar" class="botones" id="btnmodificar">
+        <input type="button" value="mostrar" class="botones" id="btnmostrar">
+    ejemplos de los botones que aprendi a crear
+    la forma en los que los cree fue input:button.botones#btn(nombre del boton que quiero crear.)
+    el place folder que es para agregar un mensaje subliminal:
+    placeholder="escriba una palabra aqui">
+    y crear contendores.
+
+
+
+    cada applicacion en javascript debe estar dividida en 4 partes
+    en javascript es la logica de prgramacion del sofware
+    el html es intermediario entre el usuario y aplicacion desarrollada en javascript
+un programa en general se divide en 4 partes
+1:conexiones y estructura logica
+2:entrada de datos
+3:procesamiento logico
+4:salida de datos o resultado
+
+javascript soporta la programacion funcional, la programacion modular y la programacion orientada a objetos.
+
+en javascript se puede usar funciones nativas y funciones definidas por el programador. 
+
+una funcion nativa es aquella que viene integrada con el lenguaje de porgramacion y solo se necesita ser invocada mas no declarada. 
+
+una funcion definida por el porgramador es aquella que si necesita ser declarada,definida y programada para luego ser invocada 
